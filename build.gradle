@@ -27,7 +27,7 @@ allprojects {
     ext {
         COMPILE_SDK_VERSION = 26
         BUILD_TOOLS_VERSION = "27.0.0"
-        MIN_SDK_VERSION = 21
+        MIN_SDK_VERSION = 16
         TARGET_SDK_VERSION = 26
         libSupportAppcompat_v7 = "com.android.support:appcompat-v7:${supportVersion}"
         libSupportAppcompat_v4 = "com.android.support:support-v4:${supportVersion}"
